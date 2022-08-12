@@ -1,0 +1,92 @@
+.card-container{
+    display: flex;
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 50px;
+    background-color: whitesmoke;
+    border-radius: 20px;
+    height: 350px;
+    border: 4px solid #D61A46;
+
+    
+}
+
+/* .name-container{
+    margin-right: auto;
+    margin-left: auto;
+} */
+
+.pic-name-box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+#pro-img{
+    margin-top: 12px;
+    margin-left: 40px;
+    /* padding-right: 20px; */
+    border-radius: 20px;
+    border: 4px double whitesmoke;
+}
+
+#intro-name{
+    height: 40px;
+    margin-top: auto;
+    /* margin-bottom: 120px; */
+    /* margin-left: 40px; */
+    font-size: 34px;
+    text-align: center;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+}
+
+#bis-header{
+    margin-top: 50px;
+    margin-bottom: 20px;
+    display: block;
+    height: 40px;
+    text-align: center;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;  
+      /* font-family: 'DynaPuff', cursive; */
+    font-size: 40px;
+    font-weight: 600;
+    padding: 5px 50px;
+
+   
+}
+/* .skill-list{
+    display: flex;
+} */
+
+ui{
+    background-color: rgba(236, 14, 14, 0.599);
+    border: 1px solid black;
+    margin-top: 18px;
+    margin-left: 5px;
+    border-radius: 3px;
+    padding: 3px 5px;
+    font-family: 'Alumni Sans Pinstripe', sans-serif;
+    font-size: 20px;
+}
+
+hr{
+    margin-right: 1px;
+    margin-left: 5px;
+}
+ol{
+    margin-bottom: 35px;
+}
+#div-btn{
+    /* display: flex;
+    justify-content: center; */
+    /* margin-left: 20px; */
+
+    margin-top: 35px;
+}
+
+#port-img, #res-img, #link-img, #git-img{
+    padding: 15px;
+    /* padding-top: 25px; */
+    margin-left: 53px;
+    
+}
